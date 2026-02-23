@@ -1,3 +1,4 @@
+tgcrypto
 pyrogram
-dataparser
-APScheduler
+apscheduler
+dateparser
